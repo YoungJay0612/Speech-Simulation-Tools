@@ -9,3 +9,6 @@
 
 3：StoRIR，https://github.com/SRPOL-AUI/storir
 功能实现：一种不同于RIR的随机房间脉冲响应生成方法，用于机器学习应用中的音频数据增强，不需要知道房间尺寸和声源位置
+
+4: DNS-Challenge,https://github.com/microsoft/DNS-Challenge
+功能实现：微软开源的DNS挑战赛的数据和仿真脚本，可以直接进行数据的仿真，包括加混响和噪声
