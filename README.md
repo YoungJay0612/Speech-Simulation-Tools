@@ -12,3 +12,6 @@
 
 4: DNS-Challenge,https://github.com/microsoft/DNS-Challenge
 功能实现：微软开源的DNS挑战赛的数据和仿真脚本，可以直接进行数据的仿真，包括加混响和噪声
+
+5：ConferenceSpeech2021,https://github.com/ConferencingSpeech/ConferencingSpeech2021/tree/master/eval
+功能实现：腾讯组织的麦克风阵列语音增强比赛，其中的eval可以批处理生成pesq,stoi，si-sdr等客观评价指标，并输出文件，非常有用。
