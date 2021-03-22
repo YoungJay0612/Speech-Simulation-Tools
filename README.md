@@ -19,3 +19,5 @@
 6：ConferenceSpeech2021,https://github.com/ConferencingSpeech/ConferencingSpeech2021/tree/master/eval  
 功能实现：腾讯组织的麦克风阵列语音增强比赛，其中的eval可以批处理生成pesq,stoi，si-sdr等客观评价指标，并输出文件，非常有用。  
 注：非常好的多通道仿真数据生成脚本，可以根据干净语音、噪声和冲击响应生成响应的多通道数据，包括混响参考数据和非混响参考数据，以及对应的带噪语音数据。
+1：仿真训练所需数据时，给出干净语音，多通道冲击响应和噪声后，即可仿真生成多通道带噪混响语音；
+2：训练时，默认为8通道数据，每个通道6s，配置时train.yaml中val_chun和train_chunk均为6
