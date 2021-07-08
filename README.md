@@ -28,3 +28,12 @@
 
 muda: https://github.com/bmcfee/muda https://muda.readthedocs.io/en/latest/  
 SpecAugment: https://github.com/DemisEom/SpecAugment  
+
+Facebook-Augly: https://github.com/facebookresearch/AugLy  
+Introc: AugLy is a data augmentations library that currently supports four modalities (audio, image, text & video) and over 100 augmentations.   
+
+Asteroid-team: https://github.com/asteroid-team/torch-audiomentations  
+Introc:  Audio data augmentation in PyTorch. Inspired by audiomentations.  
+
+Audiomentation: https://github.com/iver56/audiomentations  
+Introc: A Python library for audio data augmentation. Inspired by albumentations（图像数据增强）.  
