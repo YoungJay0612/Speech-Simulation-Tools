@@ -24,7 +24,15 @@
 
 
 
-# Data Augmentation
+# Data Augmentation 数据增强  
+
+### 2021-8-9
+paper title: SpecMix : A Mixed Sample Data Augmentation method for Training withTime-Frequency Domain Features  
+paper title: SpecMix：一种利用时频域特征训练的混合样本数据增强方法  
+链接：https://arxiv.org/abs/2108.03020  
+作者：Gwantae Kim,David K. Han,Hanseok Ko  
+机构：Korea University, South Korea, Drexel University, USA  
+备注：Accepted to interspeech 2021  
 
 muda: https://github.com/bmcfee/muda https://muda.readthedocs.io/en/latest/  
 SpecAugment: https://github.com/DemisEom/SpecAugment  
