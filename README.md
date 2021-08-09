@@ -31,6 +31,7 @@ paper title: SpecMix : A Mixed Sample Data Augmentation method for Training with
 paper title: SpecMix：一种利用时频域特征训练的混合样本数据增强方法  
 链接：https://arxiv.org/abs/2108.03020  
 作者：Gwantae Kim,David K. Han,Hanseok Ko  
+github： https://github.com/GT-KIM/specmix  
 机构：Korea University, South Korea, Drexel University, USA  
 备注：Accepted to interspeech 2021  
 
