@@ -7,6 +7,13 @@
 2：gpuRIR, https://github.com/DavidDiazGuerra/gpuRIR  
 功能实现：gpu加速的RIR仿真  
 
+FAST-RIR: Fast neural diffuse room impulse response generator  
+FAST-RIR：快速神经扩散房间脉冲响应发生器  
+链接：https://arxiv.org/abs/2110.04057  
+作者：Anton Ratnarajah,Shi-Xiong Zhang,Meng Yu,Zhenyu Tang,Dinesh Manocha,Dong Yu  
+机构： University of Maryland, College Park, MD, USA, Tencent AI Lab, Bellevue, WA, USA  
+备注：https://anton-jeran.github.io/FRIR/  https://github.com/anton-jeran/FAST-RIR  
+
 3：StoRIR，https://github.com/SRPOL-AUI/storir  
 功能实现：一种不同于RIR的随机房间脉冲响应生成方法，用于机器学习应用中的音频数据增强，不需要知道房间尺寸和声源位置  
 
@@ -21,6 +28,12 @@
 注：非常好的多通道仿真数据生成脚本，可以根据干净语音、噪声和冲击响应生成响应的多通道数据，包括混响参考数据和非混响参考数据，以及对应的带噪语音数据。
 1：仿真训练所需数据时，给出干净语音，多通道冲击响应和噪声后，即可仿真生成多通道带噪混响语音；
 2：训练时，默认为8通道数据，每个通道6s，配置时train.yaml中val_chun和train_chunk均为6
+
+7:  AECMOS: A speech quality assessment metric for echo impairment  
+标题：AECMOS：一种回声损伤的语音质量评估指标  
+链接：https://arxiv.org/abs/2110.03010  
+作者：Marju Purin,Sten Sootla,Mateja Sponza,Ando Saabas,Ross Cutler  
+机构：Microsoft Corporation  
 
 
 
