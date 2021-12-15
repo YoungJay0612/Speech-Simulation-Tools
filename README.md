@@ -35,7 +35,13 @@ FAST-RIR：快速神经扩散房间脉冲响应发生器
 作者：Marju Purin,Sten Sootla,Mateja Sponza,Ando Saabas,Ross Cutler  
 机构：Microsoft Corporation  
 
+# Feature Extraction 特征提取
+link: https://github.com/bootphon/shennong  
+Shennong: A Python toolbox for speech features extraction  
 
+# Loss Compute
+Link: https://github.com/csteinmetz1/auraloss  
+auraloss: A collection of audio-focused loss functions in PyTorch.  
 
 # Data Augmentation 数据增强  
 
