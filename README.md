@@ -39,6 +39,9 @@ FAST-RIR：快速神经扩散房间脉冲响应发生器
 link：https://github.com/IMLHF/Speech-Enhancement-Measures  
 speech enhancement metrics：CSIG, CBAK, CMOS, SSNR, PESQ, STOI, ESTOI, SNR, IS, LLR, WSS  
 
+ link:https://github.com/kamo-naoyuki/pySIIB  
+ pySIIB: A python implementation of speech intelligibility in bits (SIIB)  
+
 # Feature Extraction 特征提取
 link: https://github.com/bootphon/shennong  
 Shennong: A Python toolbox for speech features extraction  
