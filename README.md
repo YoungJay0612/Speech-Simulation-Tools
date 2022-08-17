@@ -42,6 +42,10 @@ speech enhancement metrics：CSIG, CBAK, CMOS, SSNR, PESQ, STOI, ESTOI, SNR, IS,
  link:https://github.com/kamo-naoyuki/pySIIB  
  pySIIB: A python implementation of speech intelligibility in bits (SIIB)  
 
+# Audio Generation
+Audio generation using diffusion models, in PyTorch.基于diffusion模型的音频生成  
+link: https://github.com/archinetai/audio-diffusion-pytorch#experiments  
+
 # Feature Extraction 特征提取
 link: https://github.com/YoungJay0612/padasip  
 通过Python进行Adaptive Signal Processing  
